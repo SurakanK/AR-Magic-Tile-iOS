@@ -1,0 +1,6 @@
+framework module Pods_AR_Magic_Tile_AR_Magic_TileUITests {
+  umbrella header "Pods-AR Magic Tile-AR Magic TileUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
